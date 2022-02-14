@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/xanderbylo/recipes) 
 
-This is the first project I created as part of [The Odin project](https://www.theodinproject.com/). It's a simple recipe website built using HTML to practice using the command line, Git, GitHub, text formatting and links.
+This is the first project I created as part of [The Odin Project](https://www.theodinproject.com/). It's a simple recipe website built using HTML to practice using the command line, Git, GitHub, text formatting and links.
 
 ## :computer: Live link
 
