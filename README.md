@@ -21,3 +21,8 @@ This is the first project I created as part of [The Odin Project](https://www.th
 
 * How to build a basic website using HTML
 * How to link to other pages on your website
+
+## :page_facing_up: Credits
+
+* Vegan Tofu Ramen recipe by [Cassie Best](https://www.bbcgoodfood.com/author/cassiebest) on [BBC Good Food](https://www.bbcgoodfood.com/recipes/vegan-ramen)
+* ramen.jpg by [Leon Bublitz](https://unsplash.com/@leon_bublitz) on [Unsplash](https://unsplash.com)
