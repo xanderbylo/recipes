@@ -25,4 +25,6 @@ This is the first project I created as part of [The Odin Project](https://www.th
 ## :page_facing_up: Credits
 
 * Vegan Tofu Ramen recipe by [Cassie Best](https://www.bbcgoodfood.com/author/cassiebest) on [BBC Good Food](https://www.bbcgoodfood.com/recipes/vegan-ramen)
+* Soba Noodle and Edamame Salad with Tofu [Good Food Team](https://www.bbcgoodfood.com/author/goodfood) on [BBC Good Food](https://www.bbcgoodfood.com/recipes/vegetable-tempura-soy-dipping-sauce)
 * ramen.jpg by [Leon Bublitz](https://unsplash.com/@leon_bublitz) on [Unsplash](https://unsplash.com)
+* soba.jpg by [Dovile Ramoskaite](https://unsplash.com/@dovilerm) on [Unsplash](https://unsplash.com)
