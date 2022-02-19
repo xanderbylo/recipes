@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: antiquewhite;
+    text-align: left;
+}
+
+h2 {
+    color: rgb(165, 0, 0);
+}
+
+img {
+    height: auto;
+    width: 795px;
+}
