@@ -23,6 +23,7 @@ This is the first project I created as part of [The Odin Project](https://www.th
 * How to link to other pages on your website
 * How to link to images
 * How to use ordered and unordered lists
+* How to style a website using basic CSS
 
 ## :page_facing_up: Credits
 
