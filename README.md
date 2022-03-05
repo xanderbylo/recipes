@@ -6,7 +6,7 @@ This is the first project I created as part of [The Odin Project](https://www.th
 
 ## :computer: Live link
 
-[Recipes](https://xanderbylo.github.io/recipes/)
+[recipes](https://xanderbylo.github.io/recipes/)
 
 ## :floppy_disk: Technologies
 
